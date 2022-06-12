@@ -1,1 +1,1 @@
-# class-36
+# C36-Tablet-Project-Template
